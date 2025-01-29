@@ -1,7 +1,7 @@
 Salut ! Je suis Remi Hoegeli 👋
 
 ## About Me
-    Passionné avec de nombreuses expériences dans l'enseignement et la transmission du savoir. Fort de mes compétences pédagogiques j'ai su créer des environnement     engageants et interactifs. Récemment, j'ai entrepris une reconversion professionnelle an tant que développeur web, où j'ai acquis, grâce à un bootcamp le           Wagon, des compétences solides en programmation et en conception de sites web.
+Passionné avec de nombreuses expériences dans l'enseignement et la transmission du savoir. Fort de mes compétences pédagogiques j'ai su créer des environnement     engageants et interactifs. Récemment, j'ai entrepris une reconversion professionnelle an tant que développeur web, où j'ai acquis, grâce à un bootcamp le           Wagon, des compétences solides en programmation et en conception de sites web.
 
 ## 📫 Contact Me on Social Media
 [Linkedin](www.linkedin.com/in/remi-hoegeli) | ou ✉️ [Email](mailto:remi.hoegeli@gmail.com) 
