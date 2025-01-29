@@ -3,11 +3,11 @@ Salut ! Je suis Remi Hoegeli 👋
 ## About Me
     Passionné avec de nombreuses expériences dans l'enseignement et la transmission du savoir. Fort de mes compétences pédagogiques j'ai su créer des environnement     engageants et interactifs. Récemment, j'ai entrepris une reconversion professionnelle an tant que développeur web, où j'ai acquis, grâce à un bootcamp le           Wagon, des compétences solides en programmation et en conception de sites web.
 
-## 📫 Contactez moi !
-    [Linkedin](www.linkedin.com/in/remi-hoegeli) |  ou ✉️ [Email](mailto:remi.hoegeli@gmail.com)
+## 📫 Contact Me on Social Media
+[Linkedin](www.linkedin.com/in/remi-hoegeli) | ou ✉️ [Email](mailto:remi.hoegeli@gmail.com) 
 
-## 💡 Mon projet perso 
-   [Artcartel](https://www.artcartel.online): Un jeu pour enrichir sa culture en Histoire de l'art.
+## 💡 Projects with My Work
+[**Artcartel**](https://www.artcartel.online): Un jeu pour améliorer sa culture en Histoire de l'art.
 
 ## Les technos et outils que j'utilise
 <div style="display: inline_block"><br>
