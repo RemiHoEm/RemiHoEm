@@ -3,10 +3,10 @@ Salut ! Je suis Remi Hoegeli 👋
 ## About Me
 Passionné avec de nombreuses expériences dans l'enseignement et la transmission du savoir. Fort de mes compétences pédagogiques j'ai su créer des environnement     engageants et interactifs. Récemment, j'ai entrepris une reconversion professionnelle an tant que développeur web, où j'ai acquis, grâce à un bootcamp le           Wagon, des compétences solides en programmation et en conception de sites web.
 
-## 📫 Contact Me on Social Media
+## 📫 Contactez moi !
 [Linkedin](www.linkedin.com/in/remi-hoegeli) | ou ✉️ [Email](mailto:remi.hoegeli@gmail.com) 
 
-## 💡 Projects with My Work
+## 💡 Projet perso
 [**Artcartel**](https://www.artcartel.online): Un jeu pour améliorer sa culture en Histoire de l'art.
 
 ## Les technos et outils que j'utilise
@@ -17,6 +17,7 @@ Passionné avec de nombreuses expériences dans l'enseignement et la transmissio
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">
