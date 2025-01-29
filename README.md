@@ -1,15 +1,20 @@
 Salut ! Je suis Remi Hoegeli 👋
 
-## About Me
-Passionné avec de nombreuses expériences dans l'enseignement et la transmission du savoir. Fort de mes compétences pédagogiques j'ai su créer des environnement engageants et interactifs. Récemment, j'ai entrepris une reconversion professionnelle an tant que développeur web, où j'ai acquis, grâce à un bootcamp le Wagon, des compétences solides en programmation et en conception de sites web.
+<div class="grid gap-3">
+  <div class="p-2 g-col-6">
+    <strong>About Me</strong>
+    Passionné avec de nombreuses expériences dans l'enseignement et la transmission du savoir. Fort de mes compétences pédagogiques j'ai su créer des environnement     engageants et interactifs. Récemment, j'ai entrepris une reconversion professionnelle an tant que développeur web, où j'ai acquis, grâce à un bootcamp le           Wagon, des compétences solides en programmation et en conception de sites web.
+  </div>
+  <div class="p-2 g-col-6">
+    📫 <strong>Contactez moi !</strong>
 
-## 📫 Contactez moi !
+    [Linkedin](www.linkedin.com/in/remi-hoegeli) |  ou ✉️ [Email](mailto:remi.hoegeli@gmail.com)
 
-[Linkedin](www.linkedin.com/in/remi-hoegeli) |  ou ✉️ [Email](mailto:remi.hoegeli@gmail.com)
+    💡<strong>Mon projet perso</strong>
 
-## 💡 Mon projet perso
-
-- [Artcartel](https://www.artcartel.online): Un jeu pour enrichir sa culture en Histoire de l'art.
+   [Artcartel](https://www.artcartel.online): Un jeu pour enrichir sa culture en Histoire de l'art.
+  </div>
+</div>
 
 ## Les technos et outils que j'utilise
 <div style="display: inline_block"><br>
@@ -26,7 +31,7 @@ Passionné avec de nombreuses expériences dans l'enseignement et la transmissio
 </div>
 <div style="display: inline_block"><br>
 
-## Les technos et outils sur lesquels je me forme actuellement
+## La techno que j'apprends actuellement
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
