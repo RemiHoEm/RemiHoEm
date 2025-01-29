@@ -19,7 +19,6 @@ Passionné avec de nombreuses expériences dans l'enseignement et la transmissio
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">
